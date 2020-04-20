@@ -1,0 +1,6 @@
+[submodule "beer-assessment-client"]
+	path = beer-assessment-client
+	url = https://github.com/hanny242/beer-assessment-client.git
+[submodule "beer-assessment-api"]
+	path = beer-assessment-api
+	url = https://github.com/hanny242/beer-assessment-api.git
