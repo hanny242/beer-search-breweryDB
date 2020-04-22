@@ -26,7 +26,11 @@ For this project I wanted to focus on using Angular and Typescript as my core fr
 * ExpressJS version: 4.16.4
 
 ## Setup
-Clone this repo to your desktop then run `npm install` in both api, and client folders to install all depndencies.
+Clone this repo to your desktop then run `git submodule init` and `git submodule update` in the beer-search-breweryDB folder. Open code editor and run `npm install` in both api, and client folders to install all depndencies.
+
+Add a `.env` to the beer-assessment-api folder and add the following code replacing 'yourApiKeyHere' with a working api key from breweryDB. 
+
+`API_KEY=yourApiKeyHere`
 
 Port for `beer-assessment-client` is localhost:4200.
 Port for `beer-assessment-api` is localhost:4000.
