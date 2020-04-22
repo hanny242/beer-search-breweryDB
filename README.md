@@ -32,6 +32,9 @@ Add a `.env` to the beer-assessment-api folder and add the following code replac
 
 `API_KEY=yourApiKeyHere`
 
+To start the server run `node ./bin/www`
+To start the client run `ng serve`
+
 Port for `beer-assessment-client` is localhost:4200.
 Port for `beer-assessment-api` is localhost:4000.
 
