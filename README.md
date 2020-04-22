@@ -60,6 +60,7 @@ List of features ready and TODOs for future development
 To-do list:
 * Improve the way in which I load the country information for beers
 * Implement caching
+* Fix style and country filters pagination
 
 ## Status
 Project is: _in progress_
